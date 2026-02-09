@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/data/data/com.termux/files/home/Neuralnetwork/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
